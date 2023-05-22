@@ -87,6 +87,7 @@ Any container with drainage holes will do for a Swiss cheese plant. These plants
 The Swiss cheese plant might have to contend with a variety of common houseplant pests, including mealybugs, spider mites, scale, and whitefly. Luckily, these pests are rarely fatal and can be treated with a nontoxic insecticide or neem oil. Additionally, keep an eye out for common diseases, such as root rot, rust, powdery mildew, and blight.
 
 ## Common Problems With Swiss Cheese Plant
+{: .no_toc }
 When grown in the conditions it likes, the Swiss cheese plant typically doesn't have any serious problems. However, if you can't meet its environmental needs indoors, it is prone to some common issues.
 
 ### Leaves Turning Yellow
@@ -98,9 +99,9 @@ Black marks on the leaves can be a sign of leaf burn from direct sunlight. Watch
 ***
 
 ## FAQ
-**Is Monstera adansonii easy to care for?**
+* **Is Monstera adansonii easy to care for?**<br>
 As long as you can provide warm, humid conditions, Swiss cheese plants are relatively simple to maintain.
-**How do you know if your Monstera adansonii is happy?**
+* **How do you know if your Monstera adansonii is happy?**<br>
 A happy Swiss cheese plant will have deep green waxy leaves and no discolorations.
-**Why are Monstera adansonii variegated plants so expensive?**
+* **Why are Monstera adansonii variegated plants so expensive?**<br>
 Variegated Swiss cheese plants can be expensive, but that's because this popular plant is rare. They may sell out quickly when you spot them for sale.
