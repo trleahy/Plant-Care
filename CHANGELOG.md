@@ -15,6 +15,12 @@ The project underwent a major maintenance shift in August 2023.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.3.2
+
+Hi all, this release contains the following updates:
+- updated '_config.yml', nav_external_links removal
+- updated 'perennials/perennials.md', formatting updates
+
 ## Release v0.3.1
 
 Hi all, this release follows from v0.3.0, as the Jekyll failed to due an incorrectly configured '_config.yml'.
