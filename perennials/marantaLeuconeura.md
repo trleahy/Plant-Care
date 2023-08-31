@@ -2,8 +2,7 @@
 layout: default
 title: Maranta Leuconeura
 parent: Herbaceous
-nav_order: 1
-search_exclude: true
+nav_order: 2
 ---
 
 # Maranta Leuconeura
