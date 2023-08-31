@@ -16,6 +16,24 @@ The project underwent a major maintenance shift in August 2023.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.3.5
+
+This release contains the following updates:
+The following files were loaded:
+- `/perennials/dracaenaTrifasciata.md`
+
+The following files were updated:
+- `/perennials/marantaLeuconeura.md`, Jekyll category parent updated.
+
+## Release v0.3.4
+
+This release contains the following updates:
+The following files were loaded:
+- `/perennials/marantaLeuconeura.md`, duplicate of `/herbaceous/marantaLeuconeura.md`
+
+The following files were updated:
+- `gemfile`, changed so it always uses the latest release
+
 ## Release v0.3.3
 
 Hi all, this release contains the following updates:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maranta Leuconeura
-parent: Herbaceous
+parent: Perennials
 nav_order: 2
 ---
 
