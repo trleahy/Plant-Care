@@ -30,7 +30,7 @@ nav_order: 1
 | Flower Color    | White                                                           |
 | Hardiness Zones | 10–12 (USDA)                                                    |
 | Native Area     | Central America, South America                                  |
-| Toxicity        | Toxic to pets2                                                  |
+| Toxicity        | Toxic to pets                                                   |
 
 ***
 

@@ -1,6 +1,7 @@
 ---
 title: CHANGELOG
 layout: default
+search_exclude: true
 ---
 
 # CHANGELOG
