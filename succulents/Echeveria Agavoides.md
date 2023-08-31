@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Echeveria Agavoides
-nav_order: 3
+parent: succulents
 ---
 
 # Echeveria Agavoides
@@ -38,7 +38,7 @@ nav_order: 3
 Hailing from the rocky, arid regions of Mexico, the Echeveria Agavoides Lipstick is a real beauty, adorned not only with stunning foliage but also with pink to red bell-shaped flowers. This succulent queen may look fragile, but it is, in fact, a tenacious plant. Although succulents do not need a lot of attention and upkeep, it is still very important to provide the plant with a nurturing environment that caters to its growth requirements.
 
 ### Light
-Echeveria Agavoides Lipstick loves to bask in bright, indirect light. It can tolerate direct sunlight and the red color of the leaves is developed with lots of bright, direct light, but intense scorching sun can cause the leaves to burn. If you plant this succulent outdoors, it should be in a safe spot away from the harsh afternoon sun. Echeveria succulents need at least 6 hours of lighting daily, so you should place it in a lit, sunny spot indoors and consider investing in a grow light during the dark winter months. 
+Echeveria Agavoides Lipstick loves to bask in bright, indirect light. It can tolerate direct sunlight and the red color of the leaves is developed with lots of bright, direct light, but intense scorching sun can cause the leaves to burn. If you plant this succulent outdoors, it should be in a safe spot away from the harsh afternoon sun. Echeveria succulents need at least 6 hours of lighting daily, so you should place it in a lit, sunny spot indoors and consider investing in a grow light during the dark winter months.
 
 ### Soil
 As a succulent, Echeveria Agavoides Lipstick plants prefer well-draining soils. A mixture of cactus soil and perlite or sand works well for this plant. When potting your plant, make sure to use a pot with drainage holes to allow excess water to escape. Do not use rich soil that locks in the moisture, as it would lead to root rot and overwatering issues. This plant thrives well in rocky, sunny gardens.
@@ -79,7 +79,7 @@ Echeveria Agavoides Lipstick can be propagated with offsets or leaf cuttings. Fo
 ***
 
 ## Potting and Repotting Wax Agave
-Like all succulents, Echeveria Agavoides Lipstick requires well-drained soil with optimum drainage. You should pick a pot made from porous materials like concrete, ceramic, or terracotta with at least one drainage hole. Echeveria Lipstick is a slow grower and does not require frequent repotting. This succulent should be repotted every 2-3 years with a pot only one size larger during the growing season (spring-summer). You should water it thoroughly a couple of days before repotting, so the leaves can take in as much water as it needed. Inspect the roots for any sign of root rot and root balls before repotting in new, clean soil. Do not water for 1-2 weeks after the repot so the roots have time to adjust to the new soil. 
+Like all succulents, Echeveria Agavoides Lipstick requires well-drained soil with optimum drainage. You should pick a pot made from porous materials like concrete, ceramic, or terracotta with at least one drainage hole. Echeveria Lipstick is a slow grower and does not require frequent repotting. This succulent should be repotted every 2-3 years with a pot only one size larger during the growing season (spring-summer). You should water it thoroughly a couple of days before repotting, so the leaves can take in as much water as it needed. Inspect the roots for any sign of root rot and root balls before repotting in new, clean soil. Do not water for 1-2 weeks after the repot so the roots have time to adjust to the new soil.
 
 ***
 

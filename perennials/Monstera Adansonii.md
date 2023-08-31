@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monstera Adansonii
-nav_order: 2
+parent: Perennials
 ---
 
 # Monstera Adansonii

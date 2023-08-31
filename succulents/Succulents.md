@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perennials
+title: Succulents
 nav_order: 2
 has_children: true
 ---
@@ -8,7 +8,7 @@ has_children: true
 # Perennials
 {: .no_toc }
 
-Here are all the perennials I have in my collection:
+Here are all the succulents I have in my collection:
 <details open markdown="block">
   <summary>
     Table of contents
