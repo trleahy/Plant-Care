@@ -2,19 +2,19 @@
 layout: default
 title: Monstera Adansonii
 parent: Perennials
+nav_order: 1
 ---
 
 # Monstera Adansonii
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
-</details>
 
-
+---
 
 |                 |                                                                 |
 |-----------------|-----------------------------------------------------------------|

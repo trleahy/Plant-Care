@@ -1,7 +1,9 @@
 ---
+layout: default
 title: Home
-layout: home
 nav_order: 1
+description: "The following documentation pages assist me with the care of my houseplants."
+permalink: /
 ---
 
 The following documentation pages assist me with the care of my houseplants.
