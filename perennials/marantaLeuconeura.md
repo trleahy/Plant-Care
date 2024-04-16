@@ -2,7 +2,6 @@
 layout: default
 title: Maranta Leuconeura
 parent: Perennials
-nav_order: 2
 ---
 
 # Maranta Leuconeura

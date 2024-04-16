@@ -6,6 +6,9 @@ search_exclude: true
 
 # CHANGELOG
 
+{: .warning }
+This page is no longer updated, to view changes, please see GihHub Commits.
+
 All notable changes to this project are documented in this file.
 
 {: .highlight }

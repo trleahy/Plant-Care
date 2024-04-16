@@ -2,7 +2,6 @@
 layout: default
 title: Dracaena Trifasciata
 parent: Perennials
-nav_order: 3
 ---
 
 # Dracaena Trifasciata
